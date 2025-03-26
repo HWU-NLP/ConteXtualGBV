@@ -1,7 +1,7 @@
 # ConteXtualGBV Shared Task
 This repository contains resources (dataset, codes) created for the proposal of ConteXtualGBV shared task at SemEval 2026
 
-# Examples of chunk in X
+# Example of chunks in X
 (1)
 
 **post** (author user4): @user1 @user2 @user3 @KamalaHarris I’ve done research and besides cackling and sucking dick I can’t find shit she’s done
